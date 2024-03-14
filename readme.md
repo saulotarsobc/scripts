@@ -1,6 +1,20 @@
 # Automação de Tarefas com Scripts em Node.js, Python e Bash
 
+
 Este diretório contém uma coleção de scripts desenvolvidos para automatizar uma variedade de tarefas, abrangendo as linguagens Node.js, Python e Bash. Esses scripts foram criados para simplificar e agilizar processos repetitivos, tornando as operações mais eficientes e menos propensas a erros.
+
+---
+
+<!-- [![Build Status](https://img.shields.io/travis/user/repo.svg)](https://travis-ci.org/user/repo) -->
+[![Test Coverage](https://img.shields.io/codecov/c/github/user/repo.svg)](https://codecov.io/gh/user/repo)
+[![License](https://img.shields.io/github/license/user/repo.svg)](https://github.com/saulotarsobc/scripts/blob/master/LICENSE)
+[![Version](https://img.shields.io/github/v/release/user/repo.svg)](https://github.com/saulotarsobc/scripts/releases)
+<!-- [![Downloads](https://img.shields.io/npm/dt/package-name.svg)](https://www.npmjs.com/package/package-name) -->
+[![Contributors](https://img.shields.io/github/contributors/user/repo.svg)](https://github.com/saulotarsobc/scripts/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/user/repo.svg)](https://img.shields.io/github/last-commit/saulotarsobc/scripts.svg)
+[![Stars](https://img.shields.io/github/stars/user/repo.svg)](https://github.com/saulotarsobc/scripts/stargazers)
+
+---
 
 - [👉 Bash](/bash/readme.md)
 - [👉 NodeJS](/node/readme.md)
@@ -32,13 +46,3 @@ Para utilizar os scripts neste diretório, siga estas etapas:
 - Sempre mantenha uma cópia de backup dos seus arquivos antes de executar qualquer script de automação, como precaução contra possíveis perdas de dados.
 
 Este diretório de automação de tarefas é uma ferramenta valiosa para aumentar a produtividade e eficiência, permitindo que você concentre seu tempo e energia em tarefas mais importantes e criativas.
-
-[![Build Status](https://img.shields.io/travis/user/repo.svg)](https://travis-ci.org/user/repo)
-[![Test Coverage](https://img.shields.io/codecov/c/github/user/repo.svg)](https://codecov.io/gh/user/repo)
-[![License](https://img.shields.io/github/license/user/repo.svg)](https://github.com/user/repo/blob/master/LICENSE)
-[![Version](https://img.shields.io/github/v/release/user/repo.svg)](https://github.com/user/repo/releases)
-[![Downloads](https://img.shields.io/npm/dt/package-name.svg)](https://www.npmjs.com/package/package-name)
-[![Contributors](https://img.shields.io/github/contributors/user/repo.svg)](https://github.com/user/repo/graphs/contributors)
-[![Last Commit](https://img.shields.io/github/last-commit/user/repo.svg)](https://github.com/user/repo/commits/master)
-[![Stars](https://img.shields.io/github/stars/user/repo.svg)](https://github.com/user/repo/stargazers)
-
