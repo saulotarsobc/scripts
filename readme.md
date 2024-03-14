@@ -5,7 +5,7 @@ Este diretório contém uma coleção de scripts desenvolvidos para automatizar 
 
 ---
 
-<div style="text-align:center">
+<div style="text-align:center; width: 100%;">
    <!-- <img alt="Build Status" src="https://img.shields.io/travis/saulotarsobc/scripts.svg"> -->
    <!-- <img alt="Test Coverage" src="https://img.shields.io/codecov/c/github/saulotarsobc/scripts.svg"> -->
    <!-- <img alt="License" src="https://img.shields.io/github/license/saulotarsobc/scripts.svg"> -->
