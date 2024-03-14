@@ -5,7 +5,6 @@ Este diretório contém uma coleção de scripts desenvolvidos para automatizar 
 
 ---
 
-<center>
 <!-- ![Build Status](https://img.shields.io/travis/saulotarsobc/scripts.svg) -->
 <!-- ![Test Coverage](https://img.shields.io/codecov/c/github/saulotarsobc/scripts.svg) -->
 <!-- ![License](https://img.shields.io/github/license/saulotarsobc/scripts.svg) -->
@@ -14,8 +13,6 @@ Este diretório contém uma coleção de scripts desenvolvidos para automatizar 
 ![Contributors](https://img.shields.io/github/contributors/saulotarsobc/scripts.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/saulotarsobc/scripts.svg)
 ![Stars](https://img.shields.io/github/stars/saulotarsobc/scripts.svg)
-
-</center>
 
 ---
 
