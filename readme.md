@@ -32,3 +32,19 @@ Para utilizar os scripts neste diretório, siga estas etapas:
 - Sempre mantenha uma cópia de backup dos seus arquivos antes de executar qualquer script de automação, como precaução contra possíveis perdas de dados.
 
 Este diretório de automação de tarefas é uma ferramenta valiosa para aumentar a produtividade e eficiência, permitindo que você concentre seu tempo e energia em tarefas mais importantes e criativas.
+
+- ![https://img.shields.io/travis/user/repo.svg](Statusdo Build)
+
+- ![https://img.shields.io/codecov/c/github/user/repo.svg](Coberturade Testes)
+
+- ![https://img.shields.io/github/license/user/repo.svg](Licença)
+
+- ![https://img.shields.io/github/v/release/user/repo.svg](Versão)
+
+- ![https://img.shields.io/npm/dt/package-name.svg](Downloads)
+
+- ![https://img.shields.io/github/contributors/user/repo.svg](Contribuidores)
+
+- ![https://img.shields.io/github/last-commit/user/repo.svg](ÚltimaAtualização:)
+
+- ![https://img.shields.io/github/stars/user/repo.svg](Estrelas)
