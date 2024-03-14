@@ -1,8 +1,8 @@
-## Script de Commit e Push Automatizado para Git
+# Script de Commit e Push Automatizado para Git
 
 Este é um script Bash que simplifica o processo de fazer commit e push de alterações em um repositório Git.
 
-### Funcionalidades Principais:
+## Funcionalidades Principais:
 
 1. Define algumas variáveis para facilitar a formatação de mensagens de saída com cores.
 2. Verifica se um argumento (mensagem de commit) foi fornecido ao script. Se não, exibe uma mensagem de erro e instruções de uso.
@@ -14,7 +14,7 @@ Este é um script Bash que simplifica o processo de fazer commit e push de alter
 8. Faz push das alterações para o repositório remoto usando `git push`.
 9. Verifica se o push foi bem-sucedido e exibe uma mensagem de sucesso ou erro, se aplicável.
 
-### Utilização:
+## Utilização:
 
 Para usar o script, siga estas etapas:
 
@@ -24,7 +24,13 @@ Para usar o script, siga estas etapas:
 
 O script automatiza o processo de commit e push de alterações para um repositório Git, fornecendo feedback visual sobre o sucesso ou falha das operações.
 
-### Script
+## Baixar
+
+```sh
+curl -o gitp.sh https://raw.githubusercontent.com/saulotarsobc/scripts/master/gitp/gitp.sh
+```
+
+## Script
 
 ```sh
 #!/bin/bash
