@@ -33,18 +33,12 @@ Para utilizar os scripts neste diretório, siga estas etapas:
 
 Este diretório de automação de tarefas é uma ferramenta valiosa para aumentar a produtividade e eficiência, permitindo que você concentre seu tempo e energia em tarefas mais importantes e criativas.
 
-- ![https://img.shields.io/travis/user/repo.svg](Statusdo Build)
+[![Build Status](https://img.shields.io/travis/user/repo.svg)](https://travis-ci.org/user/repo)
+[![Test Coverage](https://img.shields.io/codecov/c/github/user/repo.svg)](https://codecov.io/gh/user/repo)
+[![License](https://img.shields.io/github/license/user/repo.svg)](https://github.com/user/repo/blob/master/LICENSE)
+[![Version](https://img.shields.io/github/v/release/user/repo.svg)](https://github.com/user/repo/releases)
+[![Downloads](https://img.shields.io/npm/dt/package-name.svg)](https://www.npmjs.com/package/package-name)
+[![Contributors](https://img.shields.io/github/contributors/user/repo.svg)](https://github.com/user/repo/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/user/repo.svg)](https://github.com/user/repo/commits/master)
+[![Stars](https://img.shields.io/github/stars/user/repo.svg)](https://github.com/user/repo/stargazers)
 
-- ![https://img.shields.io/codecov/c/github/user/repo.svg](Coberturade Testes)
-
-- ![https://img.shields.io/github/license/user/repo.svg](Licença)
-
-- ![https://img.shields.io/github/v/release/user/repo.svg](Versão)
-
-- ![https://img.shields.io/npm/dt/package-name.svg](Downloads)
-
-- ![https://img.shields.io/github/contributors/user/repo.svg](Contribuidores)
-
-- ![https://img.shields.io/github/last-commit/user/repo.svg](ÚltimaAtualização:)
-
-- ![https://img.shields.io/github/stars/user/repo.svg](Estrelas)
