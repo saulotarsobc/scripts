@@ -5,14 +5,16 @@ Este diretório contém uma coleção de scripts desenvolvidos para automatizar 
 
 ---
 
-<!-- ![Build Status](https://img.shields.io/travis/saulotarsobc/scripts.svg) -->
-<!-- ![Test Coverage](https://img.shields.io/codecov/c/github/saulotarsobc/scripts.svg) -->
-<!-- ![License](https://img.shields.io/github/license/saulotarsobc/scripts.svg) -->
-<!-- ![Version](https://img.shields.io/github/v/release/saulotarsobc/scripts.svg) -->
-![Downloads](https://img.shields.io/npm/dt/package-name.svg)
-![Contributors](https://img.shields.io/github/contributors/saulotarsobc/scripts.svg)
-![Last Commit](https://img.shields.io/github/last-commit/saulotarsobc/scripts.svg)
-![Stars](https://img.shields.io/github/stars/saulotarsobc/scripts.svg)
+<div style="text-align:center">
+   <!-- <img alt="Build Status" src="https://img.shields.io/travis/saulotarsobc/scripts.svg"> -->
+   <!-- <img alt="Test Coverage" src="https://img.shields.io/codecov/c/github/saulotarsobc/scripts.svg"> -->
+   <!-- <img alt="License" src="https://img.shields.io/github/license/saulotarsobc/scripts.svg"> -->
+   <!-- <img alt="Version" src="https://img.shields.io/github/v/release/saulotarsobc/scripts.svg"> -->
+   <img alt="Downloads" src="https://img.shields.io/npm/dt/package-name.svg">
+   <img alt="Contributors" src="https://img.shields.io/github/contributors/saulotarsobc/scripts.svg">
+   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/saulotarsobc/scripts.svg">
+   <img alt="Stars" src="https://img.shields.io/github/stars/saulotarsobc/scripts.svg">
+</div>
 
 ---
 
