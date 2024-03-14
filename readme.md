@@ -5,14 +5,17 @@ Este diretório contém uma coleção de scripts desenvolvidos para automatizar 
 
 ---
 
-<!-- [![Build Status](https://img.shields.io/travis/user/repo.svg)](https://travis-ci.org/user/repo) -->
-[![Test Coverage](https://img.shields.io/codecov/c/github/user/repo.svg)](https://codecov.io/gh/user/repo)
-[![License](https://img.shields.io/github/license/user/repo.svg)](https://github.com/saulotarsobc/scripts/blob/master/LICENSE)
-[![Version](https://img.shields.io/github/v/release/user/repo.svg)](https://github.com/saulotarsobc/scripts/releases)
-<!-- [![Downloads](https://img.shields.io/npm/dt/package-name.svg)](https://www.npmjs.com/package/package-name) -->
-[![Contributors](https://img.shields.io/github/contributors/user/repo.svg)](https://github.com/saulotarsobc/scripts/graphs/contributors)
-[![Last Commit](https://img.shields.io/github/last-commit/user/repo.svg)](https://img.shields.io/github/last-commit/saulotarsobc/scripts.svg)
-[![Stars](https://img.shields.io/github/stars/user/repo.svg)](https://github.com/saulotarsobc/scripts/stargazers)
+<center>
+<!-- ![Build Status](https://img.shields.io/travis/saulotarsobc/scripts.svg) -->
+<!-- ![Test Coverage](https://img.shields.io/codecov/c/github/saulotarsobc/scripts.svg) -->
+<!-- ![License](https://img.shields.io/github/license/saulotarsobc/scripts.svg) -->
+<!-- ![Version](https://img.shields.io/github/v/release/saulotarsobc/scripts.svg) -->
+![Downloads](https://img.shields.io/npm/dt/package-name.svg)
+![Contributors](https://img.shields.io/github/contributors/saulotarsobc/scripts.svg)
+![Last Commit](https://img.shields.io/github/last-commit/saulotarsobc/scripts.svg)
+![Stars](https://img.shields.io/github/stars/saulotarsobc/scripts.svg)
+
+</center>
 
 ---
 
