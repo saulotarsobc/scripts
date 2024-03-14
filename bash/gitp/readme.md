@@ -1,5 +1,7 @@
 # Script de Commit e Push Automatizado para Git
 
+## [🏠 Home](/readme.md)
+
 Este é um script Bash que simplifica o processo de fazer commit e push de alterações em um repositório Git.
 
 ## Funcionalidades Principais:
