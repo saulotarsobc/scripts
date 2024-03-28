@@ -29,7 +29,7 @@ O script automatiza o processo de commit e push de alterações para um reposit�
 ## Baixar
 
 ```sh
-curl -o gitp.sh https://raw.githubusercontent.com/saulotarsobc/scripts/master/gitp/gitp.sh
+curl -o gitp.sh https://raw.githubusercontent.com/saulotarsobc/scripts/master/bash/gitp/gitp.sh
 ```
 
 ## Script
